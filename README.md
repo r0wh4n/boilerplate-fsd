@@ -2,10 +2,15 @@
 This is a shell script that automates the installation of various software tools commonly used by full stack developers. The script installs the following:
 
 Web browsers (Chrome, Brave)
+
 Web frameworks (React, Vue, Angular, Express)
+
 Database management systems (MySQL, MongoDB)
+
 Code editors (Atom, Visual Studio Code, Sublime Text)
+
 Task runners (Grunt, Gulp)
+
 Remote desktop software (TeamViewer, Anydesk)
 
 # Installation
