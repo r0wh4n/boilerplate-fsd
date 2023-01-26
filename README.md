@@ -17,6 +17,7 @@ Remote desktop software (TeamViewer, Anydesk)
 To install the script and all the necessary software, run the following command in terminal:
 
 chmod +x boilerplate.sh
+
 sh boilerplate.sh
 
 # Usage
